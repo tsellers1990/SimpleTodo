@@ -1,0 +1,17 @@
+{
+  "name": "basicStarterApp",
+  "displayName": "basicStarterApp",
+  "expo": {
+    "name": "basicStarterApp",
+    "slug": "basicStarterApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
